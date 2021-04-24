@@ -11,7 +11,7 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - title: Dove siamo
+  - title: Contatti e dove trovarci
     section_id: lorem-ipsum
     light_title: false
     icon: false
