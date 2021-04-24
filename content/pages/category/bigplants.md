@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Chi Siamo
 layout: category
 order: 1
 seo:
