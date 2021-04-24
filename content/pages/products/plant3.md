@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
 title: Soggiorno
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
