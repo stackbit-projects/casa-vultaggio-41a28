@@ -12,7 +12,7 @@ sections:
 
     actions: []
   - title: Foto
-    section_id: lorem-ipsum
+    section_id: foto
     light_title: false
     icon: false
     featured_products:
