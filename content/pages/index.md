@@ -25,7 +25,7 @@ sections:
     testimonials: []
     type: testimonials_section
   - type: testimonials_section
-    section_id: testimonials_section
+    section_id: contatti
     title: Contatti
     testimonials:
       - author:
