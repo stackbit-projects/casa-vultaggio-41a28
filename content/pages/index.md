@@ -13,7 +13,7 @@ sections:
     actions: []
   - section_id: Contatti
     address: lorem-ipsum
-    phone: lorem-ipsum
+    phone: '3452330942'
     type: contact_section
     mapUrl: Dove siamo
   - section_id: foto
