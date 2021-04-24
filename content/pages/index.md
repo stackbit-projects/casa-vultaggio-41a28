@@ -4,7 +4,7 @@ title: Home
 white_header: true
 sections:
   - type: hero_section
-    section_id: hero_section
+    section_id: home
     background_image: images/panorama.jpeg
     background_image_opacity: 65
     content: |+
