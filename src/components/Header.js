@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {classNames, withPrefix, Link, toStyleObj} from '../utils';
+import {classNames, withPrefix, Link, goToSection, toStyleObj} from '../utils';
 import Picture from './Picture';
 
 export default class Header extends React.Component {
