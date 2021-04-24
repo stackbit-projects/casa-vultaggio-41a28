@@ -14,7 +14,7 @@ sections:
   - type: featured_products_section
     section_id: best_sellers_section
     title: Foto
-    icon: true
+    icon: false
     light_title: true
     featured_products:
       - content/pages/products/plant1.md
