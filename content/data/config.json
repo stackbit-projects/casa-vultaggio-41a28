@@ -3,7 +3,6 @@
     "path_prefix": "/",
     "favicon": "images/logo_small_icon_only.png",
     "logo_light": "images/logo_white_large.png",
-    "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
