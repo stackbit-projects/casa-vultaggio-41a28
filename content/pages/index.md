@@ -14,7 +14,6 @@ sections:
   - section_id: Contatti
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: lorem-ipsum
     type: contact_section
     mapUrl: Dove siamo
   - section_id: foto
