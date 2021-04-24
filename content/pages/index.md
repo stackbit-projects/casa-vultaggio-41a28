@@ -10,7 +10,12 @@ sections:
     content: |+
       # Casa Vultaggio
 
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
   - type: featured_products_section
     section_id: foto
     title: Foto
