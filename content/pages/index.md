@@ -13,7 +13,6 @@ sections:
     actions: []
   - type: featured_products_section
     section_id: foto
-    title: Foto
     icon: false
     light_title: true
     featured_products:
