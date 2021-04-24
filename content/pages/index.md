@@ -20,7 +20,7 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
-  - section_id: lorem-ipsum
+  - section_id: foto
     title: Foto
     testimonials: []
     type: testimonials_section
