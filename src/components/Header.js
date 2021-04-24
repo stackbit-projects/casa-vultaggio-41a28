@@ -32,9 +32,9 @@ export default class Header extends React.Component {
                                 let isActive = (_.get(item, 'title', null) === section) ? (true) : false;
                                 return (<React.Fragment key={item_idx + '.1'}>
                                     <li key={item_idx} className="nav__menu-item">
-                                        <goToSection href={withPrefix(_.get(item, 'url', null))} className={classNames('nav__menu-item-link', {'nav__menu-item-link--active': isActive})}>
+                                        <GoToSection href={withPrefix(_.get(item, 'url', null))} className={classNames('nav__menu-item-link', {'nav__menu-item-link--active': isActive})}>
                                             {_.get(item, 'title', null)}
-                                        </goToSection>
+                                        </GoToSection>
                                     </li>
                                 </React.Fragment>)
                             })}
