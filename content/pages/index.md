@@ -21,7 +21,7 @@ sections:
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Chi siamo
     testimonials: []
     type: testimonials_section
   - type: featured_categories_section
