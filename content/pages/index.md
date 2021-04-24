@@ -11,9 +11,6 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - section_id: Contatti
-    phone: '3452330942'
-    type: contact_section
   - section_id: foto
     title: Foto
     testimonials: []
