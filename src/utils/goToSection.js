@@ -8,9 +8,6 @@ export default function GoToSection({ children, href, ...other }) {
         // For root page, use index.js, for rest use [...slug].js
         const page = href === '/' ? '/' : '/[...slug]';
         return (
-            <NextLink href={page} as={href}>
-                <a {...other}>{children}</a>
-            </NextLink>
         );
     }
 
