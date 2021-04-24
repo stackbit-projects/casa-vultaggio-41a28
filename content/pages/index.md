@@ -12,7 +12,6 @@ sections:
 
     actions: []
   - section_id: Contatti
-    address: lorem-ipsum
     phone: '3452330942'
     type: contact_section
   - section_id: foto
