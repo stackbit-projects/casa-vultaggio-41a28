@@ -9,7 +9,6 @@
     "main_menu": [
         {
             "title": "Foto",
-            "url": "/store",
             "style": "link",
             "arrow": false
         },
