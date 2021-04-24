@@ -11,7 +11,7 @@ sections:
       # Casa Vultaggio
 
     actions:
-      - title: lorem-ipsum
+      - title: Dove siamo
         url: '#'
         style: secondary
         arrow: false
