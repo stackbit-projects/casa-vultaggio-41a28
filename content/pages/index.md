@@ -26,7 +26,7 @@ sections:
       - content/pages/category/bigplants.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Contatti
     testimonials:
       - author:
           name: John Dope
