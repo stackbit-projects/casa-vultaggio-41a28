@@ -40,7 +40,7 @@ export default class Header extends React.Component {
                             })}
                         </ul>
                         <div className="nav__right">
-                                   <button className="hamburger button button--transparent">
+                    <button className="hamburger button button--transparent">
                                 <svg width="24" height="16" viewBox="0 0 24 16" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0 1c0-0.552 0.448-1 1-1h22c0.552 0 1 0.448 1 1s-0.448 1-1 1h-22c-0.552 0-1-0.448-1-1zM0 8c0-0.552 0.448-1 1-1h12c0.552 0 1 0.448 1 1s-0.448 1-1 1h-12c-0.552 0-1-0.448-1-1zM1 14.001c-0.552 0-1 0.448-1 1s0.448 1 1 1h15c0.552 0 1-0.448 1-1s-0.448-1-1-1h-15z" />
                                 </svg>
