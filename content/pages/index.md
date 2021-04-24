@@ -16,6 +16,7 @@ sections:
     phone: lorem-ipsum
     email: lorem-ipsum
     type: contact_section
+    mapUrl: Dove siamo
   - section_id: foto
     title: Foto
     testimonials: []
