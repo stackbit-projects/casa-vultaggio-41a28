@@ -36,6 +36,12 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    light_title: false
+    icon: false
+    featured_products: []
+    type: featured_products_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
