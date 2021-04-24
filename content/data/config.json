@@ -10,7 +10,8 @@
         {
             "title": "Foto",
             "style": "link",
-            "arrow": false
+            "arrow": false,
+            "url": "foto"
         },
         {
             "title": "Chi siamo",
