@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function GoToSection({ children, href, ...other }) {
+export default function GoToSection({section}) {
     // Pass Any internal link to Next.js Link, for anything else, use <a> tag
     const internal = /^\/(?!\/)/.test(href);
 
