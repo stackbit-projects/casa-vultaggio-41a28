@@ -34,7 +34,7 @@ export default class Header extends React.Component {
                                     <li key={item_idx} className="nav__menu-item">
                                         <goToSection href={withPrefix(_.get(item, 'url', null))} className={classNames('nav__menu-item-link', {'nav__menu-item-link--active': isActive})}>
                                             {_.get(item, 'title', null)}
-                                        </GoToSection>
+                                        </goToSection>
                                     </li>
                                 </React.Fragment>)
                             })}
