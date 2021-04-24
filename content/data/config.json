@@ -4,7 +4,6 @@
     "favicon": "images/logo_small_icon_only.png",
     "logo_light": "images/logo_white_large.png",
     "bg_image_primary_opacity": 60,
-    "bg_image_product": "/images/leaf.svg",
     "snipcart_api_key": "",
     "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
     "palette": "cyan",
