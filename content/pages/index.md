@@ -11,14 +11,6 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - type: featured_products_section
-    section_id: foto
-    icon: false
-    light_title: true
-    featured_products:
-      - content/pages/products/plant3.md
-      - content/pages/products/plant5.md
-      - content/pages/products/plant7.md
   - section_id: foto
     title: Foto
     testimonials: []
