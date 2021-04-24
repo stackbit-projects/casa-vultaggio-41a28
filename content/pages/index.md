@@ -11,12 +11,6 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - title: Contatti e dove trovarci
-    section_id: lorem-ipsum
-    light_title: false
-    icon: false
-    featured_products: []
-    type: featured_products_section
   - section_id: foto
     title: Foto
     testimonials: []
