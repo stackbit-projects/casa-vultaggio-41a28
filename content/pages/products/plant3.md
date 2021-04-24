@@ -4,7 +4,7 @@ id: '3'
 title: Soggiorno
 default_thumbnail_image: images/soggiorno.jpeg
 default_original_image: images/plant3-lg.jpg
-featured: true
+featured: false
 order: 0
 seo:
   title: Curabitur eu tempor
