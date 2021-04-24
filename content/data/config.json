@@ -10,7 +10,8 @@
         {
             "title": "Foto",
             "url": "/store",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         },
         {
             "title": "Chi siamo",
