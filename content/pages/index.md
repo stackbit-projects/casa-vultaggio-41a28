@@ -20,6 +20,10 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    testimonials: []
+    type: testimonials_section
   - section_id: chi-siamo
     title: Chi siamo
     testimonials: []
