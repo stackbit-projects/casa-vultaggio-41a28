@@ -11,7 +11,7 @@
             "title": "Foto",
             "url": "/store",
             "style": "link",
-            "arrow": true
+            "arrow": false
         },
         {
             "title": "Chi siamo",
