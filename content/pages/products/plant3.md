@@ -32,7 +32,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
-category: content/pages/category/category-u9ecrv21i.md
 ---
 
 # Curabitur eu tempor
