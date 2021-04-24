@@ -10,12 +10,7 @@ sections:
     content: |+
       # Casa Vultaggio
 
-    actions:
-      - title: Dove siamo
-        url: '#'
-        style: secondary
-        arrow: false
-        type: action
+    actions: []
   - type: featured_products_section
     section_id: foto
     title: Foto
