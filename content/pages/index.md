@@ -15,8 +15,7 @@ sections:
     section_id: foto
     light_title: false
     icon: false
-    featured_products:
-      - content/pages/products/product-fzl9vi7z2.md
+    featured_products: []
     type: featured_products_section
   - section_id: chi-siamo
     title: Chi siamo
