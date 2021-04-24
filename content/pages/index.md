@@ -15,7 +15,6 @@ sections:
     address: lorem-ipsum
     phone: '3452330942'
     type: contact_section
-    mapUrl: Dove siamo
   - section_id: foto
     title: Foto
     testimonials: []
