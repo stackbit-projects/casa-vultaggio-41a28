@@ -14,7 +14,8 @@
         },
         {
             "title": "Chi siamo",
-            "style": "link"
+            "style": "link",
+            "url": "chi-siamo"
         },
         {
             "title": "Contatti",
