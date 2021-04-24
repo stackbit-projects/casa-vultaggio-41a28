@@ -11,14 +11,6 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - section_id: foto
-    title: Foto
-    testimonials:
-      - text: lorem-ipsum
-        author:
-          name: lorem-ipsum
-          location: lorem-ipsum
-    type: testimonials_section
   - section_id: chi-siamo
     title: Chi siamo
     testimonials: []
