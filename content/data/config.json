@@ -14,7 +14,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Chi siamo",
+            "title": "Foto",
             "url": "/store",
             "style": "link"
         },
