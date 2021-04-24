@@ -11,7 +11,7 @@ sections:
       # Casa Vultaggio
 
     actions: []
-  - section_id: lorem-ipsum
+  - section_id: Dove trovarci
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
