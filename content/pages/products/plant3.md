@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 title: Soggiorno
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/soggiorno.jpeg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 0
