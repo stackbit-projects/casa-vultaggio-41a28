@@ -15,7 +15,6 @@ sections:
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
-    mapUrl: lorem-ipsum
     type: contact_section
   - section_id: foto
     title: Foto
